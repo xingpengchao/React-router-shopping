@@ -96,7 +96,7 @@ var MyNav= React.createClass({
 							<div className="bui_media bui_plr_12 bui_ptb_24 bui_mb_12 bui_bgc_white">
 								<div className="bui_media_l">
 									<div className="bui_round userImg"  style={{"width":"64px","height":"64px"}}>
-										<img src="http://img2.cache.netease.com/tech/2016/2/1/20160201133429a2e58.jpg" style={{"width":"64px","height":"64px"}} />
+										<img src="../images/people.jpg" style={{"width":"64px","height":"64px"}} />
 									</div>
 								</div>
 								
