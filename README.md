@@ -29,4 +29,4 @@
    ![Alt text](https://github.com/XPC2659489932/React-router-shopping/raw/master/screenshot/memberclub.JPG)
    
    
-   （商城界面没写，主页要是添加轮播图那就更好了）
+   
